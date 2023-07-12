@@ -1,0 +1,413 @@
+  @media(min-width:992px) and (max-width:1199px){
+
+    #banner .banner-slider .banner-ctn h2 {
+        font-size: 50px;
+        line-height: 50px;  
+    }
+    #banner .slick-dots {
+        bottom: 18%;
+        left: 28px;
+    }
+  }
+
+
+
+
+  @media(min-width:768px) and (max-width:991px){
+    #banner .banner-slider .banner-ctn h2 {
+        font-size: 43px;   
+        line-height: 50px; 
+    }
+    #banner .banner-slider .banner-ctn p {
+      
+        line-height: 24px;      
+        padding: 14px 0;
+    }
+    .button { 
+        padding: 14px 29px;
+        font-size: 16px;
+    }
+
+    #banner .slick-dots {
+       
+        bottom: 13%;
+        left: 36px;
+    }
+    #banner .banner-slider .row {
+        height: 500px;
+    }
+    #banner .banner-slider{
+        height: 500px;       
+       }
+  }
+ 
+
+
+  
+  @media(min-width:320px) and (max-width:767px){
+
+    #banner .banner-slider .row {
+        height: 300px;
+    }
+    #banner .banner-slider{
+        height: 300px;       
+       }
+
+       .navbar-brand img, svg {
+        margin: 0 15px;
+        width: 85px;
+    }
+
+
+    #banner .banner-slider .banner-ctn h2 {
+        font-size: 17px;
+       line-height: 18px;
+      
+    }
+     
+    #banner .banner-slider .banner-ctn h3 {
+        font-size: 11px;
+        line-height: 28px;    
+    }
+    #banner .banner-slider .banner-ctn p {
+        font-size: 12px;     
+        line-height: 18px;
+        padding: 14px 0;    
+    }
+
+    .button {
+     padding: 6px 12px;     
+        font-size: 11px;
+    }
+
+    #banner .slick-dots {
+        bottom: 0%;
+        left: 20px;
+    }
+
+    #banner .slick-dots .slick-active button {
+        width: 25px;
+        
+    }
+    #banner .slick-dots button {
+        width: 15px;
+        height: 5px;
+    }
+
+    #banner .slick-dots li {
+         margin: 0 2px;
+    }
+    #banner .banner-slider .banner-ctn .button span {
+       top: 2px;
+    }
+
+    #smallMenu .small-menu li a {
+        font-size: 10px;
+        padding: 5px 24px;
+    }
+    nav .iconspanel ul li span, nav .iconspanel ul li a {
+        font-size: 15px;
+         padding: 0 5px;
+      
+    }
+
+    .offcanvas {
+        max-width: 70%;
+    }
+    nav #smallMenu .offcanvasLogo {
+        height: 25px;
+    }
+
+    nav .iconspanel ul li a .overly { 
+        width: 12px;
+        height: 12px;
+        line-height: 12px;
+        right: 5px;
+    }
+    
+  }
+
+
+
+
+////////
+
+  @media(min-width:992px) and (max-width:1199px){
+
+    #text-area .text-info {
+        padding: 75px 0 84px 0;
+      
+    }
+    #text-area .text-info h2 {
+        font-size: 36px;
+        line-height: 55px;
+    
+    }
+
+
+    #text-area .text-info a .button {  
+        padding: 16px 34px;
+    }
+
+  }
+
+
+  @media(min-width:768px) and (max-width:991px){
+    #text-area .text-info {
+        padding: 100px 0 68px 0;
+        
+    }
+    #text-area .text-info h2 {
+        font-size: 26px;
+        line-height: 43px;
+      
+    }
+  }
+ 
+
+
+  
+  @media(min-width:320px) and (max-width:767px){
+    #text-area .text-info {
+        padding: 49px 0 29px 0;
+       
+    }
+    #text-area .text-info h2 {
+        font-size: 20px;
+        line-height: 25px;
+
+    }
+
+    #text-area .text-info p {
+        font-size: 12px;
+        line-height: 19px;
+        margin-bottom: 21px;
+    }
+  }
+
+
+
+
+
+
+
+ 
+
+///////////
+
+  @media(min-width:768px) and (max-width:991px){
+    .product-card .product-img .overlay ul li a {  
+        width: 30px;
+        height: 30px;
+        line-height: 30px;  
+        margin-bottom: 7px;
+    }
+    #new-product H1 {
+        padding: 0 0 40px 0;
+        font-size: 33px;
+    }
+  }
+
+
+
+  @media(min-width:320px) and (max-width:767px){
+    #new-product H1 {
+        padding: 0 0 25px 0;
+      
+    }
+
+    .product-card .product-img .overlay {
+        top: 8px;
+        right: 6px;
+    }
+
+    .product-card .product-img .overlay ul li a {
+        width: 20px;
+        height: 20px;
+        line-height: 20px;
+        margin-bottom: 6px;
+    }
+        
+    .product-card .product-img .overlay ul li a  .fa-solid, .fas {
+         font-weight: 900;
+        font-size: 10px;
+    }
+ .product-card .product-info p {
+        font-size: 12px;
+        line-height: 18px;
+       
+    }
+
+    .product-card .product-info h4 {
+       
+        font-size: 14px;
+        line-height: 20px;
+      
+    }
+
+    .product-card .product-info span {
+       
+        font-size: 15px;
+        margin: 0 auto;
+    }
+   
+    .product-card .product-img .label {
+        padding: 2px 8px;
+        position: absolute;   
+        top: 10px;
+    }
+    .product-card .product-img .label p {
+    
+        font-size: 12px;
+    }
+
+    .product-card .product-img ul li .tooltip-product span {
+     
+        font-size: 12px;
+    }
+
+    .product-card .product-img ul li .tooltip-product {
+         top: -3px;
+        left: -100px;
+        width: 90px;
+        padding: 3px 0;
+    
+    }
+
+    .product-card .product-img ul li .tooltip-product::after {
+        content: ''; 
+        width: 14px;
+        height: 14px;
+        top: 5px;
+    }
+  }
+
+
+///////////
+
+  @media(min-width:992px) and (max-width:1199px){
+ 
+
+
+.wrepar .wreppar-right .right-bottom {
+	padding: 76px 0 0 0;
+	margin-top: -50px;
+}
+.wrepar .wreppar-right {
+
+	margin-right: 25px;
+	padding: 34px;
+}
+  }
+    
+  
+
+
+  @media(min-width:768px) and (max-width:991px){
+  
+        #flash-sale {
+            padding: 0 0 25px 0;
+        }
+       
+    
+
+    .wrepar .wreppar-left {
+        margin: 20px;
+    }
+    .wrepar .wreppar-right {
+	margin: 0 20px;
+	padding: 30px;
+}  
+#flash-sale .container h2 {
+	padding: 0 0 75px 0;
+
+}
+  }
+
+
+
+  @media(min-width:320px) and (max-width:767px){
+    #flash-sale .container h2 {
+        padding: 50px 0;
+        font-size: 29px;
+        line-height: 34px;
+    }
+    .wrepar .coundown {
+        width: 254px;
+        padding: 5px 0;
+    }
+    .wrepar .coundown ul li {
+        padding: 0 16px;
+        font-size: 10px;
+        line-height: 20px;
+    }
+
+    .wrepar .wreppar-left h5, .wrepar .wreppar-right h5 {
+        font-size: 12px;
+        line-height: 20px;
+    }
+
+    .wrepar .extra-div .wreppar-left h3, .wrepar .wreppar-right h3 {
+          font-size: 23px;
+        line-height: 35px;
+      
+    }
+
+    .wrepar .wreppar-left p, .wrepar .wreppar-right p {
+        font-size: 12px;
+        line-height: 20px;
+        padding: 4px 0;
+    }
+    .wrepar .wreppar-left .price-1, .wrepar .wreppar-right .price-2 {
+        font-size: 16px;
+    }
+
+    .wrepar .wreppar-left .price-1 span, .wrepar .wreppar-right .price-2 span {
+        font-size: 16px;
+    }
+     
+    .wrepar .wreppar-left {
+        margin: 20px;
+        padding: 13px;
+    }
+
+    .wrepar .extra-div {
+        padding: 0px 16px;
+    }
+
+    .wrepar .wreppar-right {
+        margin: 20px;
+        padding: 20px;
+    }
+
+  .wrepar .wreppar-right .price-2 {
+        line-height: 16px;
+    }
+  }
+
+
+  @media(min-width:992px) and (max-width:1199px){
+
+    #Best-product .container h2 {
+        padding-bottom: 36px;
+        font-size: 36px;
+        line-height: 36px;
+    }
+
+    .product-card .product-img .overlay {
+        top: 16px;
+        right: 14px;
+    }
+    .product-card .product-img .overlay ul li a {
+         width: 35px;
+        height: 35px;
+        line-height: 35px;
+    }
+    .product-card .product-info h4 {
+        font-size: 16px;
+        line-height: 28px;
+    }
+  }
+ 
+
+ 
